@@ -13,7 +13,7 @@ This repository is the back end of this application.
 ## Setup
 
 In order to run the app you will need to make sure that you have Java, Spring Boot Maven.
-Once those are in place, run the command java MuseApplication.java.
+Once those are in place, run the command java MuseApplication.java. If you want to run the app fully please refer to my UI repository [muse-app](https://github.com/sofiaIG/muse-app).
 
 ## Technologies
 * Java 8
